@@ -145,5 +145,15 @@
         "director": "Mike P. Nelson"
 
 
-    }
+    },
+    {
+        "id": 21,
+        "name": "Bulbul",
+        "yearReleased": "2020",
+        "language": "Hindi",
+        "director": "Anvita Dutt Guptan"
+
+
+    },
+    
 ]
